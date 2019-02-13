@@ -1,5 +1,21 @@
 # qxcore
 
+mainline: deep insight to foundation of machine learning
+
+## Standout points
+
+### tensorflow
+- core
+- compiler
+
+### open source
+- tensor2tensor
+
+### paper
+- parallel findpeaks to paper
+
+## Base
+
 ### data structures and algorithms
 - sort
 - bst
@@ -20,15 +36,9 @@
 - gnn
 - transformer
 
-### tensorflow
-- core
-- compiler
-
 ### projects
 - gendered nlp
 - whale cv
 - sleep stage
 
-### open source
-- parallel findpeaks to paper
-- tensor2tensor
+
